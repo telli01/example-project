@@ -19,7 +19,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-artisan
-#composer.lock
-package-lock.json
 #README.md
