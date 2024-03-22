@@ -20,6 +20,6 @@ yarn-error.log
 /.idea
 /.vscode
 artisan
-composer.lock
+#composer.lock
 package-lock.json
 #README.md
